@@ -1,31 +1,11 @@
-SNAP-MAP – UI Design System
+SNAP-MAP(SET-1) – UI Design System
 
 Fonts:
-- Primary Font: Inter
-- Heading Weight: SemiBold
-- Body Weight: Regular
-- Caption Weight: Medium
+- Primary Font: Quickstand
+- Heading Weight: SemiBold/BOLD
+ 
+Official Colour Pallete - The one in the design reference
 
-Text Styles:
-- Heading / H1: 24–28 px, Inter SemiBold
-- Heading / H2: 18–20 px, Inter Medium
-- Body / Regular: 14–16 px, Inter Regular
-- Caption / Small: 12 px, Inter Medium
-
-Colors:
-- Primary: #3B82F6 (Blue)
-- Secondary: #93C5FD (Light Blue)
-- Background: #FFFFFF (White)
-- Surface: #F9FAFB (Light Gray)
-- Text Primary: #111827 (Dark Gray)
-- Text Secondary: #6B7280 (Gray)
-- Error: #EF4444 (Red) and Black
-
-Icons:
-- Style: Outline
-- Source: Material Icons / Figma Built-in Icons
-- Size: 24 px or have set accordingly
-- Color: Text Primary or Primary
 
 Screen Size:
 - Mobile Resolution: 360 × 800 (Android)
@@ -42,6 +22,4 @@ Notes:
 
 
 
-Figma Link: https://www.figma.com/design/OF2qloXgWJfh10m8KenhO0/SNAP-MAP-UI-UX-Design?node-id=0-1&t=NoFh7odUcadHKy8D-1
-
-** This was the worst task tbh should be of 100 points or even more **
+Figma Link: https://www.figma.com/design/eDx0s8hl4maz7gBTOMwsNt/SNAP-MAP-Screen-Design-01?node-id=0-1&t=ilWBmZzyQi0nGLfg-1
